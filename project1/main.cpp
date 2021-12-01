@@ -6,5 +6,7 @@ int main(int, char**) {
     test obj(3,8);
     std::cout<<obj.add()<<std::endl;
         std::cout<<obj.add()<<std::endl;
+        int w=8;
+        double zz;
 
 }

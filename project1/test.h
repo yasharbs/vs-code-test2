@@ -13,6 +13,7 @@ double z;
 public:
 test(int x, int y);
 int add();
+int subtract();
 
     
 };
