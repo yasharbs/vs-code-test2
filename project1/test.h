@@ -8,7 +8,7 @@ class test
     Eigen::Matrix2cd a;
     Eigen::Matrix2cd b;
 
-int x,y;
+int x,y,d1,d2;
 double z;
 public:
 test(int x, int y);
