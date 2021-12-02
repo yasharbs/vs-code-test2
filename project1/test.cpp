@@ -11,3 +11,5 @@ int test::add  ()
 int z=x+y;
     return z;
 }  
+
+// changes from github
